@@ -1,8 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": {
-		"name": "Christian Bingham"
-	},
+	"author": "Christian Bingham",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
